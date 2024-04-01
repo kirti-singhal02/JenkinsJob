@@ -36,6 +36,9 @@
 				<artifactId>spring-boot-maven-plugin</artifactId>
 			</plugin>
 		</plugins>
+
+		<finalName>assignmentweek3</finalName>
+		
 	</build>
 
 </project>
